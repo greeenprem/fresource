@@ -1,0 +1,317 @@
+{"collegesWithBranches": [
+    {
+        "id": "63066b809cbab109372b824c",
+        "name": "IGDTUW",
+        "branches": [
+            {
+                "id": "cll2nbjhl02qqi6xteolxjmgq",
+                "name": "CSE-AI",
+                "collegeId": "63066b809cbab109372b824c"
+            },
+            {
+                "id": "cll2ngri702r8i6xt7z0egg0t",
+                "name": "CSE",
+                "collegeId": "63066b809cbab109372b824c"
+            },
+            {
+                "id": "cll2nj84102rri6xtu29hfak7",
+                "name": "IT",
+                "collegeId": "63066b809cbab109372b824c"
+            },
+            {
+                "id": "cll2nme6902sbi6xtp7lj4npc",
+                "name": "AI/ML",
+                "collegeId": "63066b809cbab109372b824c"
+            },
+            {
+                "id": "cll2nrhkp02sfi6xtbl9fnw0t",
+                "name": "ECE-AI",
+                "collegeId": "63066b809cbab109372b824c"
+            },
+            {
+                "id": "cll2nszgt02sji6xtj4zcx02i",
+                "name": "ECE",
+                "collegeId": "63066b809cbab109372b824c"
+            },
+            {
+                "id": "cll2nu31d02sni6xt686f1o96",
+                "name": "MAE",
+                "collegeId": "63066b809cbab109372b824c"
+            }
+        ]
+    },
+    {
+        "id": "63066b809cbab109372b824d",
+        "name": "IIITD",
+        "branches": [
+            {
+                "id": "cljrr391d00046ezg30pn32se",
+                "name": "CSD",
+                "collegeId": "63066b809cbab109372b824d"
+            },
+            {
+                "id": "cljrr4s7h000g6ezgxwe0hs26",
+                "name": "CSSS",
+                "collegeId": "63066b809cbab109372b824d"
+            },
+            {
+                "id": "cljrr6ar7000s6ezgza3spxrc",
+                "name": "CSB",
+                "collegeId": "63066b809cbab109372b824d"
+            },
+            {
+                "id": "cljrr7m2e00146ezgchh6kjxq",
+                "name": "CSAI",
+                "collegeId": "63066b809cbab109372b824d"
+            },
+            {
+                "id": "cljrra3ny001g6ezgb900mqos",
+                "name": "CSAM",
+                "collegeId": "63066b809cbab109372b824d"
+            },
+            {
+                "id": "cljrrcnkz001y6ezgvwy9gr98",
+                "name": "ECE",
+                "collegeId": "63066b809cbab109372b824d"
+            },
+            {
+                "id": "cljrrh7e300006edr4ce3uiqw",
+                "name": "CSE",
+                "collegeId": "63066b809cbab109372b824d"
+            },
+            {
+                "id": "clp6292ca0001kyrw1u7tdyhx",
+                "name": "Fresources Test Dev",
+                "collegeId": "63066b809cbab109372b824d"
+            }
+        ]
+    },
+    {
+        "id": "63066b809cbab109372b824e",
+        "name": "NSUT",
+        "branches": [
+            {
+                "id": "cllpgbpg60001ky6whsjjwffz",
+                "name": "CSAI",
+                "collegeId": "63066b809cbab109372b824e"
+            },
+            {
+                "id": "cllpgc8ep0003ky6wxnd3dhqh",
+                "name": "CSDS",
+                "collegeId": "63066b809cbab109372b824e"
+            },
+            {
+                "id": "cllpgcfv80005ky6w4g8w5sy9",
+                "name": "CSE",
+                "collegeId": "63066b809cbab109372b824e"
+            },
+            {
+                "id": "cllpgcm860007ky6wczj2yqgs",
+                "name": "EIOT",
+                "collegeId": "63066b809cbab109372b824e"
+            },
+            {
+                "id": "cllpgcr9e0009ky6wms4hgfe2",
+                "name": "CSDA",
+                "collegeId": "63066b809cbab109372b824e"
+            },
+            {
+                "id": "cllpgcvux000bky6w2g5c8o29",
+                "name": "ICE",
+                "collegeId": "63066b809cbab109372b824e"
+            },
+            {
+                "id": "cllpgd1zb000dky6w2y7ii5wh",
+                "name": "ECAM",
+                "collegeId": "63066b809cbab109372b824e"
+            },
+            {
+                "id": "cllpgd9ci000fky6wwapdrkqz",
+                "name": "ECE",
+                "collegeId": "63066b809cbab109372b824e"
+            },
+            {
+                "id": "cllpgddgq000hky6wwvs5zzb7",
+                "name": "EE",
+                "collegeId": "63066b809cbab109372b824e"
+            },
+            {
+                "id": "cllpgdj45000jky6wkjd32rq7",
+                "name": "CSIOT",
+                "collegeId": "63066b809cbab109372b824e"
+            },
+            {
+                "id": "cllpgdp0e000lky6wwucljqds",
+                "name": "ME",
+                "collegeId": "63066b809cbab109372b824e"
+            },
+            {
+                "id": "cllpgdsx1000nky6w6j8aqf0d",
+                "name": "BT",
+                "collegeId": "63066b809cbab109372b824e"
+            },
+            {
+                "id": "cllpgdxip000pky6whodjkxmc",
+                "name": "MEEV",
+                "collegeId": "63066b809cbab109372b824e"
+            },
+            {
+                "id": "cllpge2ef000rky6wz10s2q03",
+                "name": "GI",
+                "collegeId": "63066b809cbab109372b824e"
+            },
+            {
+                "id": "cllpge7yd000tky6wnvvja669",
+                "name": "CIVIL",
+                "collegeId": "63066b809cbab109372b824e"
+            },
+            {
+                "id": "cllpgedxk000vky6w5rh4pays",
+                "name": "MAC",
+                "collegeId": "63066b809cbab109372b824e"
+            },
+            {
+                "id": "cllpgej0a000xky6wj2tnuap9",
+                "name": "IT",
+                "collegeId": "63066b809cbab109372b824e"
+            },
+            {
+                "id": "cllpgeog4000zky6w7j545qtj",
+                "name": "ITNS",
+                "collegeId": "63066b809cbab109372b824e"
+            }
+        ]
+    },
+    {
+        "id": "63066b819cbab109372b8256",
+        "name": "DTU",
+        "branches": [
+            {
+                "id": "63066b879cbab109372b8279",
+                "name": "ME",
+                "collegeId": "63066b819cbab109372b8256"
+            },
+            {
+                "id": "63066b849cbab109372b8263",
+                "name": "CHE",
+                "collegeId": "63066b819cbab109372b8256"
+            },
+            {
+                "id": "63066b8d9cbab109372b829a",
+                "name": "ECE",
+                "collegeId": "63066b819cbab109372b8256"
+            },
+            {
+                "id": "63066b8e9cbab109372b82a5",
+                "name": "EE",
+                "collegeId": "63066b819cbab109372b8256"
+            },
+            {
+                "id": "63066b899cbab109372b8284",
+                "name": "IT",
+                "collegeId": "63066b819cbab109372b8256"
+            },
+            {
+                "id": "63066b979cbab109372b82db",
+                "name": "CE",
+                "collegeId": "63066b819cbab109372b8256"
+            },
+            {
+                "id": "63066b819cbab109372b8257",
+                "name": "BT",
+                "collegeId": "63066b819cbab109372b8256"
+            },
+            {
+                "id": "63066b909cbab109372b82b0",
+                "name": "COE",
+                "collegeId": "63066b819cbab109372b8256"
+            },
+            {
+                "id": "63066b929cbab109372b82bb",
+                "name": "SE",
+                "collegeId": "63066b819cbab109372b8256"
+            },
+            {
+                "id": "63066b8b9cbab109372b828f",
+                "name": "ENE",
+                "collegeId": "63066b819cbab109372b8256"
+            },
+            {
+                "id": "63066b939cbab109372b82c5",
+                "name": "PIE",
+                "collegeId": "63066b819cbab109372b8256"
+            },
+            {
+                "id": "63066b859cbab109372b826e",
+                "name": "EP",
+                "collegeId": "63066b819cbab109372b8256"
+            },
+            {
+                "id": "63066b989cbab109372b82e6",
+                "name": "MCE",
+                "collegeId": "63066b819cbab109372b8256"
+            },
+            {
+                "id": "6318f2a8bb221ae724d8c9a4",
+                "name": "FOUNDATIONAL ELECTIVE COURSES",
+                "collegeId": "63066b819cbab109372b8256"
+            },
+            {
+                "id": "63066b959cbab109372b82d0",
+                "name": "AE",
+                "collegeId": "63066b819cbab109372b8256"
+            },
+            {
+                "id": "cln4u9fmd0009i6c66sigtsws",
+                "name": "HU",
+                "collegeId": "63066b819cbab109372b8256"
+            }
+        ]
+    },
+    {
+        "id": "clqoxh0zp0000i0lno55chz92",
+        "name": "IP",
+        "branches": [
+            {
+                "id": "cls06n3zu03osvj8l2l5o8w7p",
+                "name": "CSE ",
+                "collegeId": "clqoxh0zp0000i0lno55chz92"
+            },
+            {
+                "id": "cls0m3xeh03uuvj8lt6g605sg",
+                "name": "IT",
+                "collegeId": "clqoxh0zp0000i0lno55chz92"},
+                {
+                    "id": "cls0m5b8q03uwvj8ldl1qi84b",
+                    "name": "MECH",
+                    "collegeId": "clqoxh0zp0000i0lno55chz92"
+                },
+                {
+                    "id": "cls0m6tgf03v0vj8la3ocrkl0",
+                    "name": "CIVIL",
+                    "collegeId": "clqoxh0zp0000i0lno55chz92"
+                },
+                {
+                    "id": "cls0mjldd03vevj8l2ssxmlej",
+                    "name": "ECE",
+                    "collegeId": "clqoxh0zp0000i0lno55chz92"
+                },
+                {
+                    "id": "cls0mpbgt03vnvj8l6ry5m8yp",
+                    "name": "AIML",
+                    "collegeId": "clqoxh0zp0000i0lno55chz92"
+                },
+                {
+                    "id": "cls0mr8yh03vpvj8l7g9q6zxo",
+                    "name": "AIDS",
+                    "collegeId": "clqoxh0zp0000i0lno55chz92"
+                },
+                {
+                    "id": "cls0mt8lg03vrvj8l4r9jms96",
+                    "name": "EE",
+                    "collegeId": "clqoxh0zp0000i0lno55chz92"
+                }
+            ]
+        }
+    ]
+}
