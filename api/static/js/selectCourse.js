@@ -74,7 +74,7 @@ async function fetchBranchData(branchId) {
       }
       const data1 = await response.json()
       var data=data1[0].result.data.json
-      const courses = {1:[],2:[],3:[],4:[],5:[],6:[],7:[],8:[],};
+      const courses = {0:[],1:[],2:[],3:[],4:[],5:[],6:[],7:[],8:[],};
 
       data.forEach((i)=>{courses[i.semester].push(i.course.name)})
       data.forEach((i)=>{coursesDatas[i.course.name]=[i.course.id,i.course.syllabusURI]})
