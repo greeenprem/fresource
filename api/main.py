@@ -1,6 +1,5 @@
 from flask import Flask, request, Response, send_file
 from flask_cors import CORS
-import requests
 import cloudscraper
 scraper = cloudscraper.create_scraper()
 
@@ -25,7 +24,6 @@ def reverse_proxy():
     if not query_url:
         return 'No query URL provided', 400
 
-    #response = requests.get(query_url,cookies=burp0_cookies)
     response = scraper.get(query_url,cookies=burp0_cookies)
     if response.status_code != 200 and response.status_code != 207 :
         print(response.content)
